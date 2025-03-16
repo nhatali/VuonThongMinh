@@ -1,11 +1,15 @@
 # 🌱 Vườn Thông Minh Ứng Dụng AI & IoT
 
+
 ## 📌 Giới Thiệu
 Hệ thống vườn thông minh là một giải pháp kết hợp IoT và trí tuệ nhân tạo (AI) để **giám sát và điều khiển tự động môi trường vườn**. Hệ thống giúp:
 
 ✅ Theo dõi **tình trạng đất, ánh sáng, độ ẩm**.
+
 ✅ **Tưới nước tự động**.
+
 ✅ Nhận diện hình ảnh để **phát hiện người lạ** xâm nhập.
+
 ✅ Xác định **thời điểm thu hoạch cây trồng**.
 
 ---
@@ -17,6 +21,8 @@ Hệ thống vườn thông minh là một giải pháp kết hợp IoT và trí
 
 ---
 ## 🏢 Kiến Trúc Hệ Thống
+
+![kien truc](https://github.com/user-attachments/assets/3c3dcae7-0aba-4c88-bf5d-16d26853a0b4)
 
 ### 1️⃣ Phần Cứng
 - **Cảm biến**: Độ ẩm đất, ánh sáng, cảm biến mưa.
@@ -75,7 +81,14 @@ python app.py
 - 🏫 **Lớp**: CNTT 16-03.
 
 🚀 **Hệ thống vườn thông minh - Tối ưu hoá nông nghiệp với AI & IoT!** 🌾
+---
+## poster 
+
+![Poster](https://github.com/user-attachments/assets/9614b28c-4875-4055-8233-14b3b767ed4c)
+
+---
 ## Hình ảnh thực tế 
+
 ![mohinh](https://github.com/user-attachments/assets/2b13e464-cbc9-4e0c-93fa-93888907f599)
 
 
